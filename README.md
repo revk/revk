@@ -1,9 +1,6 @@
 # RevK
 
-I write code for a living, but only when it is fun.
-Geek, techie, pedant, cycle, walk, run an ISP.
-I even design router/firewalls from scratch.
-Canon over Nikon, Picard over Kirk. Stargate fan.
+<img src='https://toot.me.uk/system/accounts/headers/000/000/002/original/756c97be0ba5ce5a.jpg?1593271486'>
 
 I use a lot of open source, and so does my company, so this is a chance for me to give something back.
 
