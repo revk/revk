@@ -5,7 +5,6 @@ Geek, techie, pedant, cycle, walk, run an ISP.
 I even design router/firewalls from scratch.
 Canon over Nikon, Picard over Kirk. Stargate fan.
 Yes that picture is me, in a Panama hat, on the Panama canal.
-<a href="https://toot.me.uk/@revk" rel="nofollow" rel="me">🦣</a>
 
 I use a lot of open source, and so does my company, so this is a chance for me to give something back.
 
