@@ -6,7 +6,7 @@ This repository contains software and circuit designs published free by Andrews 
 
 Director of Andres & Arnold Ltd
 
-I write code for a living, but only when it is fun.
+I write code for a living.
 Geek, techie, pedant, cycle, walk, run an ISP.
 I even design router/firewalls from scratch.
 Canon over Nikon, Picard over Kirk. Stargate fan.
