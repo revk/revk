@@ -10,6 +10,6 @@ Social media https://toot.me.uk/@RevK
 
 This repository also contains software and circuit designs published free by Andrews & Arnold Ltd.
 
-RevK and the AJK device are, however, registered trademarks.
+"RevK", the "AJK" logo, and the "aa" logo, are, however, registered trademarks.
 
 ![0dc576280eef1c0d](https://user-images.githubusercontent.com/996983/212053244-3f69c59e-5847-4ce7-8f30-9ef50ff6016b.jpeg)
