@@ -8,7 +8,7 @@ There are all sorts of libraries and tools here, from making QR codes, to constr
 
 This repository also contains software and circuit designs published free by Andrews & Arnold Ltd.
 
-"RevK", the "AJK" logo, and the "aa" logo, are, however, registered trademarks.
+"RevK", the "AJK" logo, and the "aa" logo, are, however, trademarks.
 
 ### Me, on a boat in Norway
 
