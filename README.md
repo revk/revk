@@ -10,7 +10,7 @@ A lot of the boards are now on [Tindie](https://www.tindie.com/stores/revk/)
 
 This repository also contains software and circuit designs published free by Andrews & Arnold Ltd.
 
-"RevK", the "AJK" logo, and the "aa" logo, are, however, trademarks.
+"RevK", the "AJK" logo, and the "ɑɒ" logo, are, however, trademarks.
 
 ### Me, on a boat in Norway
 
