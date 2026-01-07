@@ -1,3 +1,7 @@
+# Moving on...
+
+See [Codeberg][https://codeberg.org/revk] - I'm moving projects over slowly.
+
 # RevK
 
 I use a lot of open source, and so does my company, so this is a chance for me to give something back.
