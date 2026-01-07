@@ -1,6 +1,6 @@
 # Moving on...
 
-See [Codeberg][https://codeberg.org/revk] - I'm moving projects over slowly.
+See [Codeberg](https://codeberg.org/revk) - I'm moving projects over slowly.
 
 # RevK
 
