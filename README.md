@@ -2,6 +2,9 @@
 
 See [Codeberg](https://codeberg.org/revk) - I'm moving projects over slowly. I am putting holding pages here when I do.
 
+- `git remote set-url origin ssh://git@codeberg.org/RevK/…`
+- `git submodule set-url -- component/… https://codeberg.org/RevK/…`
+
 # RevK
 
 I use a lot of open source, and so does my company, so this is a chance for me to give something back.
