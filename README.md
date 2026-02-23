@@ -3,7 +3,7 @@
 See [Codeberg](https://codeberg.org/revk) - I'm moving projects over slowly. I am putting holding pages here when I do. These are the commands you may need.
 
 - `git remote set-url origin ssh://git@codeberg.org/RevK/…`
-- `git submodule set-url -- component/… https://codeberg.org/RevK/…`
+- `git submodule set-url -- components/… https://codeberg.org/RevK/…`
 
 # RevK
 
